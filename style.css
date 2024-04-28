@@ -711,10 +711,10 @@ footer {
 .li_grid {
   display: flex;
   gap: 10px;
- 
+  text-decoration: none;
 }
 
-.underline{
+.li_underline{
   text-decoration: underline;
 }
 
